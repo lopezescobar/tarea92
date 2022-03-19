@@ -1,0 +1,17 @@
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\bin\Debug\net6.0-windows\201801223_sillones.exe
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\bin\Debug\net6.0-windows\201801223_sillones.deps.json
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\bin\Debug\net6.0-windows\201801223_sillones.runtimeconfig.json
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\bin\Debug\net6.0-windows\201801223_sillones.dll
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\bin\Debug\net6.0-windows\ref\201801223_sillones.dll
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\bin\Debug\net6.0-windows\201801223_sillones.pdb
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.vbproj.AssemblyReference.cache
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\_201801223_sillones.Form1.resources
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.vbproj.GenerateResource.cache
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.AssemblyInfoInputs.cache
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.AssemblyInfo.vb
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.vbproj.CoreCompileInputs.cache
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.dll
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\ref\201801223_sillones.dll
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.pdb
+C:\Users\LUIS LOPEZ\Desktop\201801223_Tareap2\201801223_sillones\obj\Debug\net6.0-windows\201801223_sillones.genruntimeconfig.cache
